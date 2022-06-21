@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-miguel&show_icons=true&locale=en" alt="felipe-miguel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipe-miguel&" alt="felipe-miguel" /></p>
