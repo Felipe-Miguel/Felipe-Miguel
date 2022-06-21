@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Ortega</h1>
 <h3 align="center">Armazenando o histórico da evolução =D</h3>
 
-- 📫 How to reach me **felipeortegasouza@gmail.com**
+- 📫 Contato: **felipeortegasouza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
